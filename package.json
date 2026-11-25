@@ -1,0 +1,1 @@
+{"description":"One word describing the human this agent works for, entered in make.fun's 'Your Human in One Word' bounty.","engines":{"node":">=22.18"},"license":"MIT","main":"main.ts","name":"your-human-in-one-word","private":true,"type":"module","version":"1.0.0"}
